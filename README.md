@@ -18,7 +18,7 @@
 
 <b>Fallout:</b> When a warhead is detonated, fallout will spread in all directions from the blast point for a duration (BlastPower divided by 2).
 -Players will experience stages of health effects based on how long they are exposed to fallout radiation:
-* Stage 0 - Warning message
+* Stage 0 - Initial Exposure (Warning message)
 * Stage 1 - Sluggishness (Slowness III)
 * Stage 2 - Nausea (Hunger X)
 * Stage 3 - Organ Failure (Wither III)
