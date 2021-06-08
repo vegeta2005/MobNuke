@@ -1,7 +1,7 @@
 # MobNuke
  Adds nuclear warefare to your Minecraft Server!
 <br><i>Project created by @author Yujibolt90</i></br>
- * <b>The download can be found in the "target" folder</b>
+ * <b>THE DOWNLOAD CAN BE FOUND IN THE "target" FOLDER!</b>
 
 
 <b>Commands:</b>
