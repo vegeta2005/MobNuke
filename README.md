@@ -1,5 +1,5 @@
 # MobNuke
- Adds nuclear warefare to your Minecraft Server!
+ Adds nuclear warfare to your Minecraft Server!
 <br><i>Project created by @author Yujibolt90</i></br>
  * <b>THE DOWNLOAD CAN BE FOUND IN THE "target" FOLDER!</b> (MobNuke-0.0.1-SNAPSHOT.jar)
 
