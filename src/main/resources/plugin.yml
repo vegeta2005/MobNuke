@@ -1,0 +1,25 @@
+name: MobNuke
+main: com.yujibolt90.mobnuke.MobNuke
+version: 0.1
+commands:
+   blastpower:
+      description: Shows current blast power.
+      usage: /<command>
+      permission: MobNuke.blastpower
+      permission-message: You don't have permission
+   setblastpower:
+      description: Changes blast power of all nukes.
+      usage: /<command> [integer]
+      permission: MobNuke.setblastpower
+      permission-message: You don't have permission
+   givenuke:
+      description: Gives a nuke to target player.
+      usage: /<command> [player]
+      permission: MobNuke.givenuke
+      permission-message: You don't have permission
+   nukehelp:
+      description: List of help commands.
+      usage: /<command>
+      permission: MobNuke.mobnuke
+      permission-message: You don't have permission
+      
