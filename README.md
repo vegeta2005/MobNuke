@@ -2,9 +2,7 @@
 /**
  * Adds nuclear warefare to your Minecraft Server!
  * <b>The download can be found in the "target" folder</b>
- *
- * Project created by
- * @author Yujibolt90
+ * Project created by @author Yujibolt90
  */
 
 
